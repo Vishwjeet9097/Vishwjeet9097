@@ -87,7 +87,7 @@ Online nursery store using Angular, Laravel, and MySQL. Features a role-based ad
 ## 🤝 Let's Collaborate!
 
 <p align="center">
-  <img src="image1" alt="Collaborator Icon" width="120" />
+  <img src="./digital-collaboration.gif" alt="Collaborator Icon" width="120" />
 </p>
 
 *Open to collaboration, freelance work, and exciting new projects! Feel free to reach out and let’s build something amazing together.*
