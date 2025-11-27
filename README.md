@@ -34,7 +34,7 @@ Dedicated software engineer with a passion for crafting scalable, high-performan
 
 ---
 
-## 🚀 Projects
+## 🚀 Freelance Projects
 
 **Angel Monkey Ecommerce**  
 *Dec 2024 – Jan 2025*  
