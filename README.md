@@ -47,7 +47,7 @@ Online nursery store using Angular, Laravel, and MySQL. Features a role-based ad
 ---
 
 ## 💼 Work Experience
-**Digital India Corporation (DIC)[NeGD](Feb Jun – Present)*  
+**Digital India Corporation (DIC)[NeGD] (Jun 2025 – Present)*  
 - Developed scalable, microservices-based web applications  
 - Managed build/deployment pipelines and RESTful APIs
 
