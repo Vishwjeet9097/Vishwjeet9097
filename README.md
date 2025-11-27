@@ -47,8 +47,11 @@ Online nursery store using Angular, Laravel, and MySQL. Features a role-based ad
 ---
 
 ## 💼 Work Experience
+**Digital India Corporation (DIC)[NeGD](Feb Jun – Present)*  
+- Developed scalable, microservices-based web applications  
+- Managed build/deployment pipelines and RESTful APIs
 
-**Simpliaxis Solutions Pvt. Ltd** *(Feb 2024 – Present)*  
+**Simpliaxis Solutions Pvt. Ltd** *(Feb 2024 – Jan - 2025)*  
 - Developed scalable, microservices-based web applications  
 - Managed build/deployment pipelines and RESTful APIs
 
