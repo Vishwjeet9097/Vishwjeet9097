@@ -36,7 +36,7 @@ Dedicated software engineer with a passion for crafting scalable, high-performan
 
 ## 🚀 Freelance Projects
 
-**Angel Monkey Ecommerce**  
+**Angel Monkey Ecommerce (angelmonkey.in)**  
 *Dec 2024 – Jan 2025*  
 Full-stack eCommerce platform built with Next.js, Laravel, MySQL, and AWS S3. Includes a robust admin dashboard, advanced caching, and scalable architecture for high performance.
 
